@@ -1,6 +1,7 @@
 # Xamarin / .NET MAUI: Cross-Platform Mobile and Desktop Development
 
-![Xamarin and .NET MAUI Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Xamarin_logo.svg/256px-Xamarin_logo.svg.png)
+![Xamarin and .NET MAUI Logo](https://upload.wikimedia.org/wikipedia/commons/f/f2/Xamarin-logo.svg)
+
 
 ## Table of Contents
 
